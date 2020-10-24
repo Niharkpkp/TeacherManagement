@@ -17,5 +17,5 @@
 ### Data
 #### The student average has been calculated and the garde for their marks have been provided 
 ### Output Image
-![GitHub Logo](/Desktop/front.png)
+(/Desktop/front.png)
 
