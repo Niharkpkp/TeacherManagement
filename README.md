@@ -17,5 +17,5 @@
 ### Data
 #### The student average has been calculated and the garde for their marks have been provided 
 ### Output Image
-![image](//C:/Users/Nihar Kalpada/Desktop/front.png)
+![image](/Desktop/front.png)
 
