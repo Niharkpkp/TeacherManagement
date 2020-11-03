@@ -3,7 +3,7 @@
 ### Task for Teachers Mode
 * - [x] Add the student Name and Roll Number
 * - [x] Delete the student records 
-* - [x] read the records
+* - [x] Read the records
 * - [x] MultiDelete 
 * - [x] Print the details
 ### Task for the Student Mode
