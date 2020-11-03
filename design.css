@@ -1,7 +1,21 @@
+body {
+  padding: 15px;
+  background-color: white;
+  color: black;
+  font-size: 25px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.dark-mode {
+  background-color: #181818;
+  color: white;
+  border-block-start-color: white;
+}
+
 table,
 th,
 td {
-  border: 5px solid black;
+  border: 5px solid #adacac;
   border-collapse: collapse;
 }
 #und {
@@ -60,22 +74,11 @@ input:checked + .slider {
 input:focus + .slider {
   box-shadow: 0 0 1px black;
 }
-body {
-  padding: 15px;
-  background-color: white;
-  color: black;
-  font-size: 25px;
-  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-}
 
-.dark-mode {
-  background-color: black;
-  color: white;
-}
 .toggleButton {
   padding: 10px;
   font-size: 15px;
-  border: 2px solid white;
+  border: 2px white;
 }
 input:checked + .slider:before {
   -webkit-transform: translateX(26px);
@@ -90,8 +93,4 @@ input:checked + .slider:before {
 
 .slider.round:before {
   border-radius: 50%;
-}
-.dark-mode {
-  background-color: black;
-  color: white;
 }
